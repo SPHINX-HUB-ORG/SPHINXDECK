@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project is dedicated to the world community as an Open-source Post-quantum SPHINXChain blockchain, means anyone can join and contribute based on his/ her passion and skills. SPHINX is a blockchain protocol designed to provide secure and scalable solutions in the post-quantum era.
+This project is dedicated to the world community as an Open-source Post-quantum SPHINX blockchain, means anyone can join and contribute based on his/ her passion and skills. SPHINX is a blockchain protocol designed to provide secure and scalable solutions in the post-quantum era.
 
 This repository contains code for the SPHINX Pitchdeck project, which is a simple presentation in SPHINX blockchain framework.
 
