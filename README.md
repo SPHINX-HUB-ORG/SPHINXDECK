@@ -12,6 +12,7 @@ This repository contains code for the SPHINX Pitchdeck project, which is a simpl
 2. Key objective & Vision
 3. The problem
 4. The solution
+5. Tokenomic
 
 
 Please note that every code in the repository is a part of the SPHINX blockchain algorithm, which is currently in development and not fully integrated or extensively tested for functionality. The purpose of this repository is to provide a framework and algorithm for the mining scheme in the SPHINX blockchain project.
